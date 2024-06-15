@@ -8,3 +8,5 @@ simply swords obrigatorio
 
 
 https://ffmpeg.org/download.html
+
+caso baixar o replay mod, coloque o arquivo baixado deste link na pasta ".minecraft"
