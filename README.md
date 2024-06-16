@@ -1,9 +1,10 @@
 fale com o ghen ----
 
 baixar o essential 1.20.1 fabric ///
-shaders e texture packs recomendados mas opcionais ///
-replay mod opcional ///
-simply swords obrigatorio
+shaders e texture packs recomendados mas OPCIONAIS!!! ///
+replay mod OPCIONAL!!! ///
+simply swords obrigatorio /// 
+firstperson OPCIONAL!!!
 
 
 
