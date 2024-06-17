@@ -4,7 +4,7 @@ baixar o essential 1.20.1 fabric ///
 shaders e texture packs recomendados mas OPCIONAIS!!! ///
 replay mod OPCIONAL!!! ///
 simply swords obrigatorio /// 
-firstperson OPCIONAL!!!
+firstperson é só apertar F6 se não gostar!!!
 
 
 
