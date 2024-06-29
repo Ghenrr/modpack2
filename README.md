@@ -8,8 +8,6 @@ firstperson é só apertar F6 se não gostar!!!
 
 xaeros minimap opcional (muita perda de fps)!!!
 
-https://www.curseforge.com/minecraft/mc-mods/charmonium/download/4919674
+https://www.curseforge.com/minecraft/mc-mods/ambientsounds/download/5434685
 mod de sons do ambiente
 
-https://ffmpeg.org/download.html
-necessário para replay mod, coloque o arquivo baixado deste link na pasta ".minecraft"
