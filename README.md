@@ -2,7 +2,7 @@
 
 baixar o essential 1.20.1 fabric
 
-BAIXE TODOS OS MODS!
+BAIXE TODOS OS MODS.ZIP!!!
 
 shaders e texture packs recomendados mas OPCIONAIS!!!
 
